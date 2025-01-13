@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2000 973">
+  <!-- Generator: Adobe Illustrator 29.2.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 108)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #00dcfd;
+      }
+
+      .st0, .st1 {
+        fill-rule: evenodd;
+      }
+
+      .st1 {
+        fill: #0aa6df;
+      }
+
+      .st2 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .st2, .st3 {
+        fill: #62b8ff;
+      }
+
+      .st4 {
+        fill: #fff;
+        filter: url(#drop-shadow-3);
+      }
+
+      .st3 {
+        filter: url(#drop-shadow-1);
+      }
+    </style>
+    <filter id="drop-shadow-1" x="-2061.7" y="-146.1" width="258.5" height="74.9" filterUnits="userSpaceOnUse">
+      <feOffset dx="2.5" dy="2.5"/>
+      <feGaussianBlur result="blur" stdDeviation="1.8"/>
+      <feFlood flood-color="#000" flood-opacity=".8"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" x="-2061.7" y="13" width="297.4" height="235.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="2.5" dy="2.5"/>
+      <feGaussianBlur result="blur1" stdDeviation="1.8"/>
+      <feFlood flood-color="#000" flood-opacity=".8"/>
+      <feComposite in2="blur1" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" x="-1839.2" y="-82.3" width="298.6" height="426.2" filterUnits="userSpaceOnUse">
+      <feOffset dx="2.5" dy="2.5"/>
+      <feGaussianBlur result="blur2" stdDeviation="1.8"/>
+      <feFlood flood-color="#000" flood-opacity=".8"/>
+      <feComposite in2="blur2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <polygon class="st3" points="-1835.9 -79.3 -1835.5 -79.3 -1835.2 -79.3 -1811.2 -79.3 -1859.8 -143.1 -2058.8 -143.2 -2058.8 -79.3 -1836.3 -79.3 -1835.9 -79.3 -1835.9 -79.3"/>
+  <polygon class="st2" points="-1835.5 176.2 -1836.3 176.2 -1869.7 176.2 -1994.9 176.2 -1994.9 80.4 -1913.3 80.4 -1913.3 16.5 -2058.8 15.8 -2058.8 240.1 -1835.5 240.1 -1835.2 240.1 -1772.4 240.1 -1772.4 176.2 -1835.2 176.2 -1835.5 176.2"/>
+  <polygon class="st4" points="-1548.8 336 -1548.8 -79.2 -1612.7 -79.2 -1612.7 162.1 -1810.2 -79.3 -1811.2 -79.3 -1811.2 -79.3 -1835.2 -79.3 -1835.5 -79.3 -1835.9 -79.3 -1836.3 -79.3 -1836.3 176.2 -1835.5 176.2 -1835.2 176.2 -1772.4 176.2 -1772.4 62.7 -1548.8 336"/>
+  <polygon points="-1835.2 -79.3 -1811.2 -79.3 -1811.2 -79.3 -1835.2 -79.3 -1835.2 -79.3"/>
+  <rect x="-1835.9" y="-79.3" width=".4" height="0"/>
+  <rect x="-1835.5" y="-79.3" width=".3" height="0"/>
+  <g>
+    <path class="st1" d="M1965.7,964.6l-28.5-704.1s3.6-172.5-188.5-227.6c0,0-193.8-60.5-343.2,53.3l-645.4,542.3s-152.2,101.6-202.2,93.5c0,0-108,19-173-147.7l539.6-164.5-69.3-162.7S707.7-93.4,311.2,55.1c0,0-433,164.5-216,667.6,0,0,147.6,350.3,572.5,222.2,0,0,195.3-65,471.2-337.2l325.4-294s152.9-92.5,152.9,90.7v558.3l348.5,1.8ZM424.1,262.2c115.6-44.5,168.9,80,168.9,80l-254.2,76.5s-30.2-112,85.3-156.5Z"/>
+    <polygon class="st0" points="1016.2 352.9 1016.2 47.1 1318.5 47.1 1318.5 100.5 1016.2 352.9"/>
+    <polygon class="st0" points="1016.2 770.8 1016.2 959.2 1336.2 959.2 1336.2 484.5 1016.2 770.8"/>
+  </g>
+</svg>
